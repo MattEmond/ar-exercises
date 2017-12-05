@@ -26,6 +26,8 @@ new_store = Store.create(name: "#{store_name}")
 
 
 
+
+
 ### Exercise 7: Validations for both models
 
 # 1. Add validations to two models to enforce the following business rules:
